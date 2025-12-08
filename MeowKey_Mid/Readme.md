@@ -428,15 +428,4 @@ For issues or questions:
 
 
 
-/////////////////////////////////
-
-
-abd@abdullah:~/SEM-03/DSA/curr/bg/sample_03$ g++ client_main.cpp -o client -lX11 -std=c++17 -pthread
-abd@abdullah:~/SEM-03/DSA/curr/bg/sample_03$ g++ launcher_linux.cpp -o launcher -std=c++17 -pthread
-abd@abdullah:~/SEM-03/DSA/curr/bg/sample_03$ g++ guardian_exit.cpp -o guardian_exit -std=c++17
-abd@abdullah:~/SEM-03/DSA/curr/bg/sample_03$ chmod +x client launcher guardian_exit
-abd@abdullah:~/SEM-03/DSA/curr/bg/sample_03$ g++ server_main.cpp -o server -std=c++17 -pthread
-abd@abdullah:~/SEM-03/DSA/curr/bg/sample_03$ chmod +x server
-abd@abdullah:~/SEM-03/DSA/curr/bg/sample_03$ 
-
 
